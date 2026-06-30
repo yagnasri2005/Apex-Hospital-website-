@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Website",
+  "description": "A premium, fully responsive modern healthcare website featuring appointment booking, doctor profiles, interactive departments, emergency care contact, and medical service listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
